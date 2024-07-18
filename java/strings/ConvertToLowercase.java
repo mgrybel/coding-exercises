@@ -15,6 +15,5 @@ public class ConvertToLowercase {
 
         System.out.println("The original sentence: " + a);
         System.out.println("The sentence converted to lowercase: " + b);
-
     }
 }
