@@ -6,12 +6,12 @@ public class RetrieveCharacter {
     static Scanner cin = new Scanner(System.in);
 
     public static void main(String[] args) {
-        String a;
+        String myStr;
 
         System.out.println("Enter a sentence:");
-        a = cin.nextLine();
+        myStr = cin.nextLine();
 
-        System.out.println("The character at index 0: " + a.charAt(0));
-        System.out.println("The character at index 9: " + a.charAt(9));
+        System.out.println("The character at index 0: " + myStr.charAt(0));
+        System.out.println("The character at index 9: " + myStr.charAt(9));
     }
 }
