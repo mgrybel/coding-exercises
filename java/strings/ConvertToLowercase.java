@@ -6,14 +6,14 @@ public class ConvertToLowercase {
     static Scanner cin = new Scanner(System.in);
 
     public static void main(String[] args) {
-        String a, b;
+        String firstStr, secondStr;
 
         System.out.println("Enter a sentence with uppercase letters:");
-        a = cin.nextLine();
+        firstStr = cin.nextLine();
 
-        b = a.toLowerCase();
+        secondStr = firstStr.toLowerCase();
 
-        System.out.println("The original sentence: " + a);
-        System.out.println("The sentence converted to lowercase: " + b);
+        System.out.println("The original sentence: " + firstStr);
+        System.out.println("The sentence converted to lowercase: " + secondStr);
     }
 }
