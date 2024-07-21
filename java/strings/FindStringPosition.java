@@ -6,14 +6,14 @@ public class FindStringPosition {
     static Scanner cin = new Scanner(System.in);
 
     public static void main(String[] main) {
-        String a;
-        int b;
+        String myStr;
+        int position;
 
         System.out.println("Enter a sentence with the word Java in it: ");
-        a = cin.nextLine();
+        myStr = cin.nextLine();
 
-        b = a.indexOf("Java");
+        position = myStr.indexOf("Java");
 
-        System.out.println("The position is: " + b);
+        System.out.println("The position is: " + position);
     }
 }
