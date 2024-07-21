@@ -6,14 +6,14 @@ public class CountCharacters {
     static Scanner cin = new Scanner(System.in);
 
     public static void main(String[] main) {
-        String a;
-        int b;
+        String myStr;
+        int count;
 
         System.out.println("Enter a string: ");
-        a = cin.nextLine();
+        myStr = cin.nextLine();
 
-        b = a.length();
+        count = myStr.length();
 
-        System.out.println("The number of characters is equal to: " + b);
+        System.out.println("The number of characters is equal to: " + count);
     }
 }
