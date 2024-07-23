@@ -3,5 +3,5 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
-const name = prompt('Please enter your name: ');
+const name = prompt('Enter your name: ');
 console.log(`Hello, ${name}!`);
