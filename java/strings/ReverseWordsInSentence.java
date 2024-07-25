@@ -30,14 +30,14 @@ public class ReverseWordsInSentence {
     }
 
     public static void main(String[] args) {
-        String a, b;
+        String originalStr, reversedStr;
 
         System.out.println("Enter a sentence to reverse: ");
-        a = cin.nextLine();
+        originalStr = cin.nextLine();
 
-        b = reverseWords(a);
+        reversedStr = reverseWords(originalStr);
 
-        System.out.println("The original sentence: " + a);
-        System.out.println("The reversed sentence: " + b);
+        System.out.println("The original sentence: " + originalStr);
+        System.out.println("The reversed sentence: " + reversedStr);
     }
 }
