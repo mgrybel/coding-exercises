@@ -1,5 +1,5 @@
 // Write a program that reads three numbers
-// and displays then in ascending order.
+// and displays them in ascending order.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
