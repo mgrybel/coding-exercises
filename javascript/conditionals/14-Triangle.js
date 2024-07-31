@@ -1,5 +1,5 @@
 // Write a program that reads three numbers
-// and tells you if they can be the sides of a triangle
+// and tells you if the numbers can be the sides of a triangle
 // (the sum of two sides must always be greater than the third side).
 
 const prompt = require('prompt-sync')({ sigint: true });
