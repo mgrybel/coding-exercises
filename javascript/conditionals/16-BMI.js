@@ -1,7 +1,7 @@
 // Write a program that asks for a person's height and weight
 // and calculates their BMI (Body Mass Index),
 // displaying the corresponding category
-// (underweight, normal weight, overweight, obese, severy obese)
+// (underweight, normal weight, overweight, obese, severy obese).
 
 const prompt = require('prompt-sync')({ sigint: true });
 
