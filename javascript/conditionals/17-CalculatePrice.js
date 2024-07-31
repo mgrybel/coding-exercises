@@ -1,6 +1,6 @@
 // Write a program that reads the price of a product.
 // If the price is more than 200 USD, the tax is 5%.
-// If it is more than 500 USD, the tax is 7.5%.
+// If the price is more than 500 USD, the tax is 7.5%.
 // Products up to 200 USD do not pay taxes.
 // Print the final price of the product on the screen.
 
@@ -16,7 +16,7 @@ if (price > 500) {
 } else if (price > 200) {
   finalPrice = price * 1.05; // 5% tax
 } else {
-  finalPrice = price;
+  finalPrice = price; // no tax
 }
 
 console.log(`The final price of the product is ${finalPrice.toFixed(2)}`);
