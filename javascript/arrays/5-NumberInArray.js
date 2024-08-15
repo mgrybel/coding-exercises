@@ -5,7 +5,6 @@
 const prompt = require('prompt-sync')({ sigint: true });
 
 const input = prompt('Enter a list of integers separated by spaces: ');
-
 const integers = input.split(' ').map(Number);
 
 // Read a specific number to count occurrences
