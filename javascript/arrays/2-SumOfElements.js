@@ -4,7 +4,6 @@
 const prompt = require('prompt-sync')({ sigint: true });
 
 const input = prompt('Enter a list of integers separated by spaces: ');
-
 const integers = input.split(' ').map(Number);
 
 // Calculate the sum of elements in the array
