@@ -1,5 +1,4 @@
-// Write a program that reads an array of integers
-// and displays the elements in reverse order.
+// Write a program that reads an array of integers and displays the elements in reverse order.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
