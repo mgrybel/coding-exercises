@@ -1,5 +1,4 @@
-// Given an unsorted array of integers, find the length of
-// the longest consecutive elements sequence.
+// Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
