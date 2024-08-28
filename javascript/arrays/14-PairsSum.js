@@ -1,5 +1,4 @@
-// Given an array of integers, find all pairs in the array
-// that sum up to a specified value.
+// Given an array of integers, find all pairs in the array that sum up to a specified value.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
