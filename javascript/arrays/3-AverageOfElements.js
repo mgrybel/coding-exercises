@@ -1,5 +1,4 @@
-// Write a program that reads an arrays of integers
-// and displays the average of the elements.
+// Write a program that reads an arrays of integers and displays the average of the elements.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
