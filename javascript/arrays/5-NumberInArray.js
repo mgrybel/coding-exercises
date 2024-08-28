@@ -1,6 +1,5 @@
-// Write a program that reads an array of integers
-// and displays how many times a specific number
-// appears in the array.
+// Write a program that reads an array of integers and displays
+// how many times a specific number appears in the array.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
