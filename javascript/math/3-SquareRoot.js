@@ -1,5 +1,4 @@
-// Write a program that reads a number
-// and prints the square root of the number on the screen.
+// Write a program that reads a number and prints the square root of the number on the screen.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
