@@ -1,6 +1,4 @@
-// Write a program that asks the user for a number
-// and displays the Fibonacci sequence up to the given number
-// using a repeating loop.
+// Write a program that asks the user for a number and displays the Fibonacci sequence up to the given number using a repeating loop.
 
 /**
  * The Fibonacci Sequence is the series of numbers: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ...

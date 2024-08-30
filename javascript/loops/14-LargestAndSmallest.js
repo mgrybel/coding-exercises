@@ -1,5 +1,4 @@
-// Write a program that prompts the user for a list of numbers
-// until the user types 0,
+// Write a program that prompts the user for a list of numbers until the user types 0,
 // and displays the largest and smallest numbers on the list.
 
 const prompt = require('prompt-sync')({ sigint: true });
