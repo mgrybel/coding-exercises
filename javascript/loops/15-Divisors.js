@@ -1,5 +1,4 @@
-// Write a program that prompts the user for a number
-// and displays its divisors.
+// Write a program that prompts the user for a number and displays its divisors.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

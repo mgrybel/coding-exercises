@@ -1,5 +1,4 @@
-// Write a program that determines the lowest common multiple (LCM)
-// between two numbers entered by the user.
+// Write a program that determines the lowest common multiple (LCM) between two numbers entered by the user.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
@@ -18,4 +17,6 @@ while (true) {
   larger++;
 }
 
-console.log(`The lowest common multiple (LCM) of ${num1} and ${num2} is: ${lcm}`);
+console.log(
+  `The lowest common multiple (LCM) of ${num1} and ${num2} is: ${lcm}`
+);

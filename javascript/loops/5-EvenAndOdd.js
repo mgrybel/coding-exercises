@@ -1,6 +1,4 @@
-// Write a program that displays even numbers from 1 to 50
-// and odd numbers from 51 to 100
-// using a repeating loop.
+// Write a program that displays even numbers from 1 to 50 and odd numbers from 51 to 100 using a repeating loop.
 
 for (let number = 1; number <= 100; number++) {
   if (number <= 50) {

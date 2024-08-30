@@ -1,5 +1,4 @@
-// Write a program that determines the greates common divisor (GCD)
-// between two numbers entered by the user.
+// Write a program that determines the greates common divisor (GCD) between two numbers entered by the user.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
