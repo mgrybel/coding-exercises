@@ -1,5 +1,4 @@
-// Write a program that reads an array of integers
-// and checks if they are in ascending order.
+// Write a program that reads an array of integers and checks if they are in ascending order.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

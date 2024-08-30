@@ -1,5 +1,4 @@
-// Write a program that reads an array of integers
-// and finds the second largest element in the array.
+// Write a program that reads an array of integers and finds the second largest element in the array.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
