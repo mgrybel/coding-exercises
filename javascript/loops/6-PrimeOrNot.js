@@ -1,5 +1,4 @@
-// Write a program that asks the user for a number N
-// and checks whether the number is prime or not.
+// Write a program that asks the user for a number N and checks whether the number is prime or not.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

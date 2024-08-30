@@ -1,5 +1,4 @@
-// Write a program that prompts the user for a number N
-// and displays all prime numbers less than N.
+// Write a program that prompts the user for a number N and displays all prime numbers less than N.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

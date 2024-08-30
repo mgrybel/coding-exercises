@@ -1,5 +1,4 @@
-// Write a program that reads two numbers,
-// the first being the base and the second the exponent,
+// Write a program that reads two numbers, the first being the base and the second the exponent,
 // and then prints the first number raised to the second.
 
 const prompt = require('prompt-sync')({ sigint: true });

@@ -1,5 +1,4 @@
-// Write a program that prompts the user for two numbers A and B
-// and displays all numbers  between A and B.
+// Write a program that prompts the user for two numbers A and B and displays all numbers  between A and B.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
