@@ -1,5 +1,4 @@
-// Write a program that asks the user for three numbers
-// and displays the largest one.
+// Write a program that asks the user for three numbers and displays the largest one.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

@@ -1,5 +1,4 @@
-// Write a program that reads three numbers
-// and checks if their sum is positive, negative, or equal to zero.
+// Write a program that reads three numbers and checks if their sum is positive, negative, or equal to zero.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
