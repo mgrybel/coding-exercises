@@ -1,5 +1,4 @@
-// Write a program that reads a word and displays
-// the number of vowels present in it.
+// Write a program that reads a word and displays the number of vowels present in it.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

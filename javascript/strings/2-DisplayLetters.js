@@ -1,5 +1,4 @@
-// Write a program that takes a word and
-// displays each letter separately.
+// Write a program that takes a word and displays each letter separately.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

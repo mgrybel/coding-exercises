@@ -1,5 +1,4 @@
-// Write a program that takes a sentence and
-// replaces all spaces with a new line.
+// Write a program that takes a sentence and replaces all spaces with a new line.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

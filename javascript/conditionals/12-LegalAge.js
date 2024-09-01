@@ -1,4 +1,5 @@
-// Write a program that reads the age of three people and checks how many of them are of legal age (age 18 or older).
+// Write a program that reads the age of three people and
+// checks how many of them are of legal age (age 18 or older).
 
 const prompt = require('prompt-sync')({ sigint: true });
 

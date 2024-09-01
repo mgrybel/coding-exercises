@@ -1,4 +1,5 @@
-// Write a program that calculates the arithmetic mean of three numbers entered by the user.
+// Write a program that calculates the arithmetic mean
+// of three numbers entered by the user.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

@@ -1,5 +1,4 @@
-// Write a program that receives a sentence and
-// displays the amount of blank spaces present in it.
+// Write a program that receives a sentence and displays the amount of blank spaces present in it.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

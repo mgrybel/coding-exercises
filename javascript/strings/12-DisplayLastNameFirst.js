@@ -1,5 +1,4 @@
-// Write a program that takes a full name and
-// displays the last name first.
+// Write a program that takes a full name and displays the last name first.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

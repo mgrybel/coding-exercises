@@ -1,4 +1,5 @@
-// Write a program that reads a number and reports whether the number is positive, negative, or zero.
+// Write a program that reads a number and reports
+// whether the number is positive, negative, or zero.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

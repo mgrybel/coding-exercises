@@ -1,5 +1,4 @@
-// Create a program that takes a sentence
-// and replaces all the letters "a" with "e".
+// Create a program that takes a sentence and replaces all the letters "a" with "e".
 
 const prompt = require('prompt-sync')({ sigint: true });
 

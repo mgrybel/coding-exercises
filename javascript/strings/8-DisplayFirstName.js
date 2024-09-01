@@ -1,5 +1,4 @@
-// Write a program that takes a full name and
-// displays only the first name.
+// Write a program that takes a full name and displays only the first name.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

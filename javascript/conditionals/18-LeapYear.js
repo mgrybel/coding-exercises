@@ -1,4 +1,5 @@
-// Write a program that reads a year (a four digit number) and checks whether it is a leap year or not.
+// Write a program that reads a year (a four digit number)
+// and checks whether it is a leap year or not.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

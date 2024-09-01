@@ -1,4 +1,5 @@
-// Write a program that asks for a number and checks if it is divisible by 3 and 5 at the same time.
+// Write a program that asks for a number
+// and checks if it is divisible by 3 and 5 at the same time.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

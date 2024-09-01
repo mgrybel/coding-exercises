@@ -1,4 +1,5 @@
-// Write a program that asks for two numbers and checks if the first number is divisible by the second number.
+// Write a program that asks for two numbers
+// and checks if the first number is divisible by the second number.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

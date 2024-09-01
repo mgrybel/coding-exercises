@@ -1,4 +1,5 @@
-// Write a program that reads numbers from a user until zero is entered, and displays the average of the numbers entered.
+// Write a program that reads numbers from a user until zero is entered,
+// and displays the average of the numbers entered.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

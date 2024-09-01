@@ -1,5 +1,4 @@
-// Write a program that reads two words and
-// concatenates them, displaying the resulting word.
+// Write a program that reads two words and concatenates them, displaying the resulting word.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

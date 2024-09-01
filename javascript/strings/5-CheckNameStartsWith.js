@@ -1,5 +1,4 @@
-// Write a program that receives a name and
-// checks if it starts with the letter 'A'.
+// Write a program that receives a name and checks if it starts with the letter 'A'.
 
 const prompt = require('prompt-sync')({ sigint: true });
 

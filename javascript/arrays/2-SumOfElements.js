@@ -1,4 +1,5 @@
-// Write a program that reads an array of integers and displays the sum of all elements.
+// Write a program that reads an array of integers
+// and displays the sum of all elements.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
