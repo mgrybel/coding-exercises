@@ -31,9 +31,9 @@ public class RemoveDuplicates {
 
     public static void main(String[] args) {
         String myStr;
-        System.out.println("Enter a string with duplicate characters in it, e.g.,: hackerearth ");
+        System.out.println("Enter a string with duplicate characters in it, e.g.,: hackerearth");
         myStr = cin.nextLine();
-        
+
         String result = removeDup(myStr);
         System.out.println(result);
     }
