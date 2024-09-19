@@ -2,7 +2,7 @@ package strings;
 
 // Write a program to swap two strings
 // using a substring method.
-// Input: Hello world
+// Input: Hello World
 // Output: World Hello
 public class SwapStrings {
     public static void main(String[] main) {
