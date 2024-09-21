@@ -37,5 +37,4 @@ public class RemoveDuplicates {
         String result = removeDup(myStr);
         System.out.println(result);
     }
-  
 }
