@@ -39,5 +39,4 @@ public class FindDuplicates {
             System.out.println("No duplicates found!");
         }
     }
-  
 }
