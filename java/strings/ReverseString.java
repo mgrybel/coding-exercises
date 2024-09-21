@@ -15,6 +15,5 @@ public class ReverseString {
 
         System.out.println("The original string: " + firstStr);
         System.out.println("The reversed string: " + secondStr);
-
     }
 }
