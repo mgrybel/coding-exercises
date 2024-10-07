@@ -3,10 +3,10 @@
 import java.util.Scanner;
 
 public class Mean {
-    // Create a scanner object to read input from the user
-    static Scanner scanner = new Scanner(System.in);
-
     public static void main(String[] args) {
+        // Create a scanner object to read input from the user
+        Scanner scanner = new Scanner(System.in);
+
         // Prompt the user for the first number
         System.out.println("Enter the first number: ");
         double num1 = scanner.nextDouble();
