@@ -7,14 +7,14 @@ import java.util.Scanner;
 // Input: This is a string
 // Output: 13
 public class CharacterCount {
-    static Scanner cin = new Scanner(System.in);
-
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
         String myStr;
         int count = 0;
 
         System.out.println("Enter a string: ");
-        myStr = cin.nextLine();
+        myStr = scanner.nextLine();
 
         for (int i = 0; i < myStr.length(); i++) {
             if (myStr.charAt(i) != ' ') {
@@ -22,5 +22,7 @@ public class CharacterCount {
             }
         }
         System.out.println("The number of characters is equal to: " + count);
+
+        scanner.close();
     }
 }
