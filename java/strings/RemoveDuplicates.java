@@ -7,8 +7,6 @@ import java.util.Scanner;
 // Input: hackerearth
 // Output: hackert
 public class RemoveDuplicates {
-    static Scanner cin = new Scanner(System.in);
-
     public static String removeDup(String inputString) {
         String lowercaseString = inputString.toLowerCase();
         char[] characters = lowercaseString.toCharArray();
@@ -30,11 +28,15 @@ public class RemoveDuplicates {
     }
 
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
         String myStr;
         System.out.println("Enter a string with duplicate characters in it, e.g.,: hackerearth");
-        myStr = cin.nextLine();
+        myStr = scanner.nextLine();
 
         String result = removeDup(myStr);
         System.out.println(result);
+
+        scanner.close();
     }
 }
