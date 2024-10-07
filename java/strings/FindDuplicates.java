@@ -6,15 +6,15 @@ import java.util.Scanner;
 // Input: hackerearth
 // Output: h a e r
 public class FindDuplicates {
-    static Scanner cin = new Scanner(System.in);
-
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
         String myStr, s;
         char[] character;
         boolean isNotDuplicate = false;
 
         System.out.println("Enter a string with duplicate characters in it: ");
-        myStr = cin.nextLine();
+        myStr = scanner.nextLine();
 
         s = myStr.toLowerCase();
         character = s.toCharArray();
@@ -38,5 +38,7 @@ public class FindDuplicates {
         if (!isNotDuplicate) {
             System.out.println("No duplicates found!");
         }
+
+        scanner.close();
     }
 }
