@@ -6,8 +6,6 @@ import java.util.Scanner;
 // Input: This is a string
 // Output: gnirts a si sihT
 public class ReverseString3 {
-    static Scanner cin = new Scanner(System.in);
-
     public static String reverse(String input) {
         String reversedString = "";
         for (int i = input.length() - 1; i >= 0; i--) {
@@ -16,11 +14,15 @@ public class ReverseString3 {
         return reversedString;
     }
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
         String myStr;
         System.out.println("Enter a string to reverse:");
-        myStr = cin.nextLine();
+        myStr = scanner.nextLine();
 
         String reversedString = reverse(myStr);
         System.out.println(reversedString);
+
+        scanner.close();
     }
 }
