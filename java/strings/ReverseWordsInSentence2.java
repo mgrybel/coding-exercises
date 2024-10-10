@@ -3,14 +3,14 @@ package strings;
 import java.util.Scanner;
 
 public class ReverseWordsInSentence2 {
-    static Scanner cin = new Scanner(System.in);
-
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
         String originalStr, reversedStr = "";
         String[] words;
 
         System.out.println("Enter a sentence to reverse: ");
-        originalStr = cin.nextLine();
+        originalStr = scanner.nextLine();
 
         words = originalStr.split(" ");
 
@@ -24,5 +24,7 @@ public class ReverseWordsInSentence2 {
 
         System.out.println("The original sentence: " + originalStr);
         System.out.println("The reversed sentence: " + reversedStr);
+
+        scanner.close();
     }
 }
