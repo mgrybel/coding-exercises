@@ -4,8 +4,6 @@ import java.util.Scanner;
 import java.util.regex.Pattern;
 
 public class ReverseWordsInSentence {
-    static Scanner cin = new Scanner(System.in);
-
     static String reverseWords(String str) {
         // Specify the pattern to be searched
         // the regular expression \s matches a single whitespace character
@@ -30,14 +28,18 @@ public class ReverseWordsInSentence {
     }
 
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
         String originalStr, reversedStr;
 
         System.out.println("Enter a sentence to reverse: ");
-        originalStr = cin.nextLine();
+        originalStr = scanner.nextLine();
 
         reversedStr = reverseWords(originalStr);
 
         System.out.println("The original sentence: " + originalStr);
         System.out.println("The reversed sentence: " + reversedStr);
+
+        scanner.close();
     }
 }
