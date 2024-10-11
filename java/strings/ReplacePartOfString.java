@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class ReplacePartOfString {
     public static void main(String[] args) {
+        // Create a scanner object to read input from the user
         Scanner scanner = new Scanner(System.in);
 
         String firstStr, secondStr;
@@ -16,6 +17,7 @@ public class ReplacePartOfString {
         System.out.println("The original sentence: " + firstStr);
         System.out.println("The modified sentence: " + secondStr);
 
+        // Close the scanner
         scanner.close();
     }
 }
