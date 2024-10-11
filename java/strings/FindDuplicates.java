@@ -7,6 +7,7 @@ import java.util.Scanner;
 // Output: h a e r
 public class FindDuplicates {
     public static void main(String[] args) {
+        // Create a scanner object to read input from the user
         Scanner scanner = new Scanner(System.in);
 
         String myStr, s;
@@ -39,6 +40,7 @@ public class FindDuplicates {
             System.out.println("No duplicates found!");
         }
 
+        // Close the scanner
         scanner.close();
     }
 }
