@@ -8,6 +8,7 @@ import java.util.Scanner;
 // Output: 13
 public class CharacterCount {
     public static void main(String[] args) {
+        // Create a scanner object to read input from the user
         Scanner scanner = new Scanner(System.in);
 
         String myStr;
@@ -23,6 +24,7 @@ public class CharacterCount {
         }
         System.out.println("The number of characters is equal to: " + count);
 
+        // Close the scanner
         scanner.close();
     }
 }
