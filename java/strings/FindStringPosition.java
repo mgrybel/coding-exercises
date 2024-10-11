@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class FindStringPosition {
     public static void main(String[] main) {
+        // Create a scanner object to read input from the user
         Scanner scanner = new Scanner(System.in);
 
         String myStr;
@@ -16,6 +17,7 @@ public class FindStringPosition {
 
         System.out.println("The position is: " + position);
 
+        // Close the scanner
         scanner.close();
     }
 }
