@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class ReverseString {
     public static void main(String[] args) {
+        // Create a scanner object to read input from the user
         Scanner scanner = new Scanner(System.in);
 
         String firstStr, secondStr;
@@ -16,6 +17,7 @@ public class ReverseString {
         System.out.println("The original string: " + firstStr);
         System.out.println("The reversed string: " + secondStr);
 
+        // Close the scanner
         scanner.close();
     }
 }
