@@ -14,6 +14,7 @@ public class ReverseString3 {
         return reversedString;
     }
     public static void main(String[] args) {
+        // Create a scanner object to read input from the user
         Scanner scanner = new Scanner(System.in);
 
         String myStr;
@@ -23,6 +24,7 @@ public class ReverseString3 {
         String reversedString = reverse(myStr);
         System.out.println(reversedString);
 
+        // Close the scanner
         scanner.close();
     }
 }
