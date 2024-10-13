@@ -28,6 +28,7 @@ public class ReverseWordsInSentence {
     }
 
     public static void main(String[] args) {
+        // Create a scanner object to read input from the user
         Scanner scanner = new Scanner(System.in);
 
         String originalStr, reversedStr;
@@ -40,6 +41,7 @@ public class ReverseWordsInSentence {
         System.out.println("The original sentence: " + originalStr);
         System.out.println("The reversed sentence: " + reversedStr);
 
+        // Close the scanner
         scanner.close();
     }
 }
