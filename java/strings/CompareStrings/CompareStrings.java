@@ -1,4 +1,4 @@
-package strings;
+package strings.CompareStrings;
 
 import java.util.Scanner;
 
