@@ -1,4 +1,4 @@
-package strings;
+package strings.ConvertToLowercase;
 
 import java.util.Scanner;
 
