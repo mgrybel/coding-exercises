@@ -1,4 +1,4 @@
-package strings;
+package strings.CountCharacters;
 
 import java.util.Scanner;
 
