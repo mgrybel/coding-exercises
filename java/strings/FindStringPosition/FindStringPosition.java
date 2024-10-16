@@ -1,4 +1,4 @@
-package strings;
+package strings.FindStringPosition;
 
 import java.util.Scanner;
 
