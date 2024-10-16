@@ -1,4 +1,4 @@
-package strings;
+package strings.FindDuplicates;
 
 import java.util.Scanner;
 
