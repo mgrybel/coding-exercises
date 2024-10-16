@@ -1,4 +1,4 @@
-package strings;
+package strings.GetPartOfString;
 
 import java.util.Scanner;
 
