@@ -1,4 +1,4 @@
-package strings;
+package strings.LeapYear;
 
 // Write a program that checks whether
 // the year is leap or not.
