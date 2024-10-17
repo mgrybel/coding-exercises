@@ -1,4 +1,4 @@
-package strings;
+package strings.PrimeNumbers;
 
 // Write a program to check whether
 // the given number is prime or not.
