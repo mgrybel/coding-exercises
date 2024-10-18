@@ -1,4 +1,4 @@
-package strings;
+package strings.RemoveWhitespace;
 
 import java.util.Scanner;
 
