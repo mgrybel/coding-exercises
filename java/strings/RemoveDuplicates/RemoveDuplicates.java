@@ -1,4 +1,4 @@
-package strings;
+package strings.RemoveDuplicates;
 
 import java.util.LinkedHashSet;
 import java.util.Scanner;
