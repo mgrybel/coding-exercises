@@ -1,4 +1,4 @@
-package strings;
+package strings.ReverseWordsInSentence2;
 
 import java.util.Scanner;
 
