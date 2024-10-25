@@ -1,4 +1,4 @@
-package strings;
+package strings.SwapStrings3;
 
 // Write a program to swap two strings
 // using the StringBuilder class.
