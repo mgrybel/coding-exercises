@@ -1,4 +1,4 @@
-package strings;
+package strings.RetrieveCharacter;
 
 import java.util.Scanner;
 
