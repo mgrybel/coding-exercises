@@ -1,4 +1,4 @@
-package strings;
+package strings.SwapStrings2;
 
 // Write a program to swap two strings using a temp variable.
 // Input: Hello World
