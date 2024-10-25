@@ -1,4 +1,4 @@
-package strings;
+package strings.SwapStrings;
 
 // Write a program to swap two strings
 // using a substring method.
