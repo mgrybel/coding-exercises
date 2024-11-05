@@ -1,5 +1,6 @@
 # Write a program that reads three numbers and displays
 # them on the screen in ascending order.
+# Using if statements
 
 # Prompt the user to enter three numbers
 number1 = float(input("Enter the first number: "))
