@@ -1,1 +1,0 @@
-# Write a program that prints all even numbers from 1 to 100.
