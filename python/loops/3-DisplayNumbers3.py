@@ -1,0 +1,1 @@
+# Write a program that displays all numbers from 1 to 100.
