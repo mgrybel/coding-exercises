@@ -1,1 +1,1 @@
-# Write a program that displays all numbers from 1 to 100.
+# Write a program that displays the numbers 1 through 10 using a for loop.
