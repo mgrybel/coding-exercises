@@ -8,9 +8,9 @@ N = int(input("Enter a number: "))
 sum_of_numbers = 0
 
 # Use a for loop to iterate from 1 to N (inclusive)
-for num in range(1, N + 1):
+for number in range(1, N + 1):
   # Add the current number to the sum
-  sum_of_numbers += num
+  sum_of_numbers += number
 
 # Display the sum of the numbers
 print("The sum of numbers from 1 to", N, "is:", sum_of_numbers)
