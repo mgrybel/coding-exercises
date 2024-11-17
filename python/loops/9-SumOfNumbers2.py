@@ -6,15 +6,15 @@ N = int(input("Enter a number: "))
 
 # Initialize variables
 sum_of_numbers = 0
-num = 1
+number = 1
 
 # Use a while loop to iterate until num reaches N
-while num <= N:
+while number <= N:
   # Add the current number to the sum
-  sum_of_numbers += num
+  sum_of_numbers += number
 
   # Increment the number
-  num += 1
+  number += 1
 
 # Display the sum of the numbers
 print("The sum of numbers from 1 to", N, "is:", sum_of_numbers)
