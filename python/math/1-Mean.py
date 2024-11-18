@@ -2,11 +2,11 @@
 # of two numbers.
 
 # Prompt the user for two numbers
-num1 = float(input('Enter the first number: '))
-num2 = float(input('Enter the second number: '))
+number1 = float(input('Enter the first number: '))
+number2 = float(input('Enter the second number: '))
 
 # Calculate the arithmetic mean
-mean = (num1 + num2) / 2
+mean = (number1 + number2) / 2
 
 # Display the result
 print('Arithmetic mean:', mean)
