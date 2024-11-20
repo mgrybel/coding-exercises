@@ -3,15 +3,15 @@
 
 # Initialize variables
 sum_of_evens = 0
-num = 2
+number = 2
 
 # Use a while loop to iterate until num reaches 100
-while num <= 100:
+while number <= 100:
   # Add the current number to the sum if it is even
-  sum_of_evens += num
+  sum_of_evens += number
 
   # Increment the number by 2 to get the next even number
-  num += 2
+  number += 2
 
 # Display the sum of even numbers
 print("The sum of even numbers from 1 to 100 is:", sum_of_evens)
