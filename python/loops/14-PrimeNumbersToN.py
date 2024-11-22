@@ -7,19 +7,19 @@ n = int(input("Enter a number: "))
 print("Prime numbers less than", n, "are:")
 
 # Iterate through numbers from 2 to N
-for num in range(2, n):
+for number in range(2, n):
   is_prime = True
 
   # Check if the current number is divisible by any integer 
   # from 2 to the square root of the number
-  for i in range(2, int(num ** 0.5) + 1):
-    if num % i == 0:
+  for i in range(2, int(number ** 0.5) + 1):
+    if number % i == 0:
       is_prime = False
       break
 
   # Display the prime number
   if is_prime:
-    print(num, end=" ")
+    print(number, end=" ")
 
 # Add a new line for better output formatting
 print()
