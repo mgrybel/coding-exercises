@@ -8,7 +8,7 @@ N = int(input("Enter the value of N: "))
 count = 0
 
 # Start checking prime numbers from 2
-num = 2
+number = 2
 
 print("The first", N, "prime numbers are:")
 
@@ -17,18 +17,18 @@ while count < N:
 
   # Check if the current number is divisible by any integer
   # from 2 to the square root of the number
-  for i in range(2, int(num ** 0.5) + 1):
-    if num % i == 0:
+  for i in range(2, int(number ** 0.5) + 1):
+    if number % i == 0:
       is_prime = False
       break
 
   # If the number is prime, display it
   if is_prime:
-    print(num, end=" ")
+    print(number, end=" ")
     count += 1
 
   # Move to the next number for checking
-  num += 1
+  number += 1
 
 # Add a new line for better output formatting
 print()
