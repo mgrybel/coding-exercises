@@ -15,8 +15,8 @@ else:
 
 # Use a for loop to iterate over the numbers
 # between A and B (inclusive)
-for num in range(start, end + 1):
-  print(num, end=" ")
+for number in range(start, end + 1):
+  print(number, end=" ")
 
 # Add a new line for better output formatting
 print()
