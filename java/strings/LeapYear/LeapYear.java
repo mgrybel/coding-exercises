@@ -1,7 +1,6 @@
 package strings.LeapYear;
 
-// Write a program that checks whether
-// the year is leap or not.
+// Write a program that checks whether the year is leap or not.
 // Input: 2020
 // Output: Leap
 public class LeapYear {
