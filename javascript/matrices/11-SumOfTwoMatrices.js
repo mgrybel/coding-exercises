@@ -1,5 +1,4 @@
-// Write a program that reads two 2x2 matrices and displays
-// the sum of the two matrices.
+// Write a program that reads two 2x2 matrices and displays the sum of the two matrices.
 
 function matrixSum(matrix1, matrix2) {
   const result = [];
