@@ -1,7 +1,6 @@
 package strings.SwapNumbers;
 
-// Write a program to swap two numbers
-// using the substring method.
+// Write a program to swap two numbers using the substring method.
 // Input: 10 20
 // Output: 20 10
 public class SwapNumbers {
