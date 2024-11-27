@@ -1,4 +1,4 @@
-// Write a recursive function to calculate the sum of the digits of an integer
+// Write a recursive function to calculate the sum of the digits of an integer.
 
 function sumOfDigits(n) {
   if (n < 10) {
