@@ -2,8 +2,7 @@ package strings.CharacterCount;
 
 import java.util.Scanner;
 
-// Write a program to calculate the count of non-space characters
-// in a given string.
+// Write a program to calculate the count of non-space characters in a given string.
 // Input: This is a string
 // Output: 13
 public class CharacterCount {
