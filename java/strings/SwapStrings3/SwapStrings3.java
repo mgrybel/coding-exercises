@@ -1,7 +1,6 @@
 package strings.SwapStrings3;
 
-// Write a program to swap two strings
-// using the StringBuilder class.
+// Write a program to swap two strings using the StringBuilder class.
 // Input: Hello World
 // Output: World Hello
 public class SwapStrings3 {
