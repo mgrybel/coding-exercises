@@ -1,7 +1,6 @@
 package strings.PrimeNumbers;
 
-// Write a program to check whether
-// the given number is prime or not.
+// Write a program to check whether the given number is prime or not.
 // Input: 7
 // Output: prime
 public class PrimeNumbers {
