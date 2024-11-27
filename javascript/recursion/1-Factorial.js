@@ -1,4 +1,4 @@
-// Write a recursive function to calculate the factorial of a number
+// Write a recursive function to calculate the factorial of a number.
 
 function factorial(n) {
   if (n === 0 || n === 1) {
