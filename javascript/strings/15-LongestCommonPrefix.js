@@ -1,5 +1,4 @@
-// Given a list of strings, write a function
-// to determine the longest common prefix.
+// Given a list of strings, write a function to determine the longest common prefix.
 
 function longestCommonPrefix(strs) {
   if (strs.length === 0) {
