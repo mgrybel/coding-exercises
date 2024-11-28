@@ -1,5 +1,4 @@
-// Write a regex to validate email addresses,
-// ensuring it contains @ and . symbols.
+// Write a regex to validate email addresses, ensuring it contains @ and . symbols.
 
 const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
