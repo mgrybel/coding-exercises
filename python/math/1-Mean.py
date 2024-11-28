@@ -1,5 +1,4 @@
-# Write a program that calculates the arithmetic mean
-# of two numbers.
+# Write a program that calculates the arithmetic mean of two numbers.
 
 # Prompt the user for two numbers
 number1 = float(input('Enter the first number: '))
