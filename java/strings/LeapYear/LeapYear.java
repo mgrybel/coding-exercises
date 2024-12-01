@@ -22,9 +22,9 @@ public class LeapYear {
 
     public static void main(String[] args) {
         if (isLeap(2020)) {
-            System.out.println("Leap");
+            System.out.println("It is a leap year.");
         } else {
-            System.out.println("Not Leap");
+            System.out.println("It is not a leap year.");
         }
     }
 }
