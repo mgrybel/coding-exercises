@@ -22,5 +22,5 @@ for (let i = 0; i < matrix.length; i++) {
   }
 }
 
-console.log('Matrix:', matrix);
+console.log('The matrix:', matrix);
 console.log('The sum of boundary elements:', sum);
