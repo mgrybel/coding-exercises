@@ -22,5 +22,5 @@ for (let i = 0; i < 3; i++) {
 // Calculate average of values at even positions
 const average = count !== 0 ? sum / count : 0;
 
-console.log('Matrix:', matrix);
+console.log('The matrix:', matrix);
 console.log('The average of values at even positions:', average);
