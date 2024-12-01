@@ -15,4 +15,4 @@ while True:
     break
 
 # Print the sum of positive numbers
-print("Sum of positive numbers:", sum_positive)
+print("The sum of positive numbers:", sum_positive)
