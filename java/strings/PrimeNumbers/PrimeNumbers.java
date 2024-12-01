@@ -19,9 +19,9 @@ public class PrimeNumbers {
 
     public static void main(String[] args) {
         if (isPrime(17)) {
-            System.out.println("Prime");
+            System.out.println("It is a prime number/");
         } else {
-            System.out.println("Not Prime");
+            System.out.println("It is not a prime number.");
         }
     }
 }
