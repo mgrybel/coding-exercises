@@ -20,4 +20,4 @@ function fibonacci(n, sequence = [0, 1]) {
 
 // Example usage
 const number = 50;
-console.log('Fibonacci sequence up to', number, 'is:', fibonacci(number));
+console.log('The Fibonacci sequence up to', number, 'is:', fibonacci(number));
