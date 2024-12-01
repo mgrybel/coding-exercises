@@ -12,5 +12,5 @@ const matrix = [
   [0, 8, -6],
 ];
 
-console.log('Matrix:', matrix);
-console.log('Determinant:', determinant(matrix));
+console.log('The matrix:', matrix);
+console.log('The determinant:', determinant(matrix));
