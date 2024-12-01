@@ -10,4 +10,4 @@ function factorial(n) {
 
 // Example usage
 const number = 5;
-console.log(`Factorial of ${number} is:`, factorial(number));
+console.log(`The factorial of ${number} is:`, factorial(number));
