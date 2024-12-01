@@ -21,7 +21,7 @@ for (let i = 0; i < matrix.length; i++) {
   }
 }
 
-console.log('Matrix:', matrix);
+console.log('The matrix:', matrix);
 
 if (isDiagonal) {
   console.log('It is a diagonal matrix.');
