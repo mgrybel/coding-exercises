@@ -29,7 +29,7 @@ function sumColumns(matrix) {
 }
 
 const matrix = generateMatrix(4, 4);
-console.log('Matrix:', matrix);
+console.log('The matrix:', matrix);
 
 const rowSums = sumRows(matrix);
 console.log('The sum of values in each row:', rowSums);
