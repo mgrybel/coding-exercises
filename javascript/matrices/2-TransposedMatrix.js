@@ -12,7 +12,7 @@ for (let i = 0; i < 4; i++) {
 }
 
 // Display the original matrix
-console.log('Original matrix:');
+console.log('The original matrix:');
 console.log(matrix);
 
 // Transpose the matrix
@@ -24,5 +24,5 @@ for (let i = 0; i < 4; i++) {
 }
 
 // Display the transposed matrix
-console.log('\nTransposed matrix:');
+console.log('\nThe transposed matrix:');
 console.log(transposedMatrix);
