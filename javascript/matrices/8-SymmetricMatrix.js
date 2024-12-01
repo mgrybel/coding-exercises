@@ -28,7 +28,7 @@ const matrix = [
   [3, 5, 6],
 ];
 
-console.log('Matrix:', matrix);
+console.log('The matrix:', matrix);
 
 if (isSymmetric(matrix)) {
   console.log('The matrix is symmetric.');
