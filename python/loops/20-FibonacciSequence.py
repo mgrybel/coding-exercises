@@ -9,7 +9,7 @@ previous_number = 0
 current_number = 1
 
 # Display the Fibonacci sequence up to the given number
-print("Fibonacci sequence up to", number, ":")
+print("The Fibonacci sequence up to", number, ":")
 
 while current_number <= number:
   print(current_number, end=" ")
