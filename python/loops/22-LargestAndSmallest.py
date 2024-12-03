@@ -21,7 +21,7 @@ while True:
 
 # Display the largest and smallest numbers
 if largest != float('-inf') and smallest != float('inf'):
-  print("Largest number:", largest)
-  print("Smallest number:", smallest)
+  print("The largest number:", largest)
+  print("The smallest number:", smallest)
 else:
   print("No numbers were entered.")
