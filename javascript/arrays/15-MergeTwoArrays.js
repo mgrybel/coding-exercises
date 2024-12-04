@@ -35,4 +35,5 @@ while (j < arr2.length) {
   j++;
 }
 
+// Display the result
 console.log(`Merged sorted array: ${mergedArray}`);
