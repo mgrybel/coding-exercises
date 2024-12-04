@@ -31,5 +31,6 @@ if (nums.length === 0) {
     }
   }
 
+  // Display the result
   console.log(`Length of the longest consecutive sequence: ${longestSequence}`);
 }
