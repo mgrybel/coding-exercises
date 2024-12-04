@@ -21,6 +21,7 @@ if (integers.length < 2) {
     }
   }
 
+  // Display the result
   if (pairs.length === 0) {
     console.log('No pairs found with the target sum.');
   } else {
