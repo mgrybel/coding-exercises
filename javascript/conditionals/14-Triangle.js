@@ -10,6 +10,7 @@ const side3 = parseFloat(prompt('Enter the length of side 3: '));
 const canFormTriangle =
   side1 + side2 > side3 && side2 + side3 > side1 && side1 + side3 > side2;
 
+// Display the result
 if (canFormTriangle) {
   console.log('These numbers can form the sides of a triangle.');
 } else {
