@@ -26,4 +26,5 @@ if (bmi < 18.5) {
   category = 'Severely obese';
 }
 
+// Display the result
 console.log(`Your BMI is ${bmi.toFixed(2)} - ${category}`);
