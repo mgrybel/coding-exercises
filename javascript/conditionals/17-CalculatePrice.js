@@ -19,4 +19,5 @@ if (price > 500) {
   finalPrice = price; // no tax
 }
 
+// Display the result
 console.log(`The final price of the product is ${finalPrice.toFixed(2)}`);
