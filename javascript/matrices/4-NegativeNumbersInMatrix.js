@@ -18,4 +18,5 @@ for (let i = 0; i < matrix.length; i++) {
   }
 }
 
+// Display the result
 console.log('The number of negative numbers in the matrix:', negativeCount);
