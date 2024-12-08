@@ -8,4 +8,5 @@ const num2 = parseFloat(prompt('Enter the second number: '));
 // Find the bigger number using the Marh.max function
 const biggerNum = Math.max(num1, num2);
 
+// Display the result
 console.log(`${biggerNum} is the bigger number.`);
