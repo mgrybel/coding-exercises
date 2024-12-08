@@ -17,6 +17,6 @@ for (let i = 0; i < 3; i++) {
   }
 }
 
-// display matrix and sum of main diagonal
+// Display matrix and sum of main diagonal
 console.log('The matrix:', matrix);
 console.log('The sum of main diagonal values:', sum);
