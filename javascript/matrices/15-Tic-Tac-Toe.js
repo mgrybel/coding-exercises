@@ -62,5 +62,6 @@ const game2 = [
   [0, 1, 0],
 ];
 
+// Display the result
 console.log(checkTicTacToe(game1)); // Player 1 wins!
 console.log(checkTicTacToe(game2)); // It is a tie!
