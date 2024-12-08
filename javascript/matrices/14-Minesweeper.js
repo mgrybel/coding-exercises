@@ -39,4 +39,5 @@ const matrix = [
   [0, 1, 0],
 ];
 
+// Display the result
 console.log(minesweeper(matrix));
