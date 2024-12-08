@@ -12,5 +12,6 @@ const matrix = [
   [0, 8, -6],
 ];
 
+// Display the result
 console.log('The matrix:', matrix);
 console.log('The determinant:', determinant(matrix));
