@@ -16,4 +16,5 @@ if (num1 >= num2 && num1 >= num3) {
   largestNum = num3;
 }
 
+// Display the result
 console.log(`The largest number is ${largestNum}`);
