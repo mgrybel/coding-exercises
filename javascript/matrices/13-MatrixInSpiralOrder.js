@@ -50,4 +50,5 @@ const matrix = [
   [7, 8, 9],
 ];
 
+// Display the result
 console.log('Spiral order:', spiralOrder(matrix));
