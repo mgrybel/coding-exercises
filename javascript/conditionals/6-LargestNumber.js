@@ -2,18 +2,18 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
-const num1 = parseFloat(prompt('Enter the first number: '));
-const num2 = parseFloat(prompt('Enter the second number: '));
-const num3 = parseFloat(prompt('Enter the third number: '));
+const number1 = parseFloat(prompt('Enter the first number: '));
+const number2 = parseFloat(prompt('Enter the second number: '));
+const number3 = parseFloat(prompt('Enter the third number: '));
 
 let largestNum;
 
-if (num1 >= num2 && num1 >= num3) {
-  largestNum = num1;
-} else if (num2 >= num1 && num2 >= num3) {
-  largestNum = num2;
+if (number1 >= number2 && number1 >= number3) {
+  largestNum = number1;
+} else if (number2 >= number1 && number2 >= number3) {
+  largestNum = number2;
 } else {
-  largestNum = num3;
+  largestNum = number3;
 }
 
 // Display the result
