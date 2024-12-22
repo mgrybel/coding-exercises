@@ -3,13 +3,13 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
-const num = parseFloat(prompt('Enter a number: '));
+const number = parseFloat(prompt('Enter a number: '));
 
 // Check if the number is positive, negative, or zero
-if (num > 0) {
-  console.log(`${num} is a positive number.`);
-} else if (num < 0) {
-  console.log(`${num} is a negative number.`);
+if (number > 0) {
+  console.log(`${number} is a positive number.`);
+} else if (number < 0) {
+  console.log(`${number} is a negative number.`);
 } else {
-  console.log(`${num} is zero.`);
+  console.log(`${number} is zero.`);
 }
