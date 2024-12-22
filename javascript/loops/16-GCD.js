@@ -3,11 +3,11 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
-const num1 = parseInt(prompt('Enter the first number: '));
-const num2 = parseInt(prompt('Enter the second number: '));
+const number1 = parseInt(prompt('Enter the first number: '));
+const number2 = parseInt(prompt('Enter the second number: '));
 
-let a = num1;
-let b = num2;
+let a = number1;
+let b = number2;
 
 while (b !== 0) {
   const temp = b;
@@ -18,5 +18,5 @@ while (b !== 0) {
 const gcd = a;
 
 console.log(
-  `The greatest common divisor (GCD) of ${num1} and ${num2} is: ${gcd}`
+  `The greatest common divisor (GCD) of ${number1} and ${number2} is: ${gcd}`
 );
