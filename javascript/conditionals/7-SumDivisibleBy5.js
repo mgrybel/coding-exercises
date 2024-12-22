@@ -2,11 +2,11 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
-const num1 = parseFloat(prompt('Enter the first number: '));
-const num2 = parseFloat(prompt('Enter the second number: '));
-const num3 = parseFloat(prompt('Enter the third number: '));
+const number1 = parseFloat(prompt('Enter the first number: '));
+const number2 = parseFloat(prompt('Enter the second number: '));
+const number3 = parseFloat(prompt('Enter the third number: '));
 
-const sum = num1 + num2 + num3;
+const sum = number1 + number2 + number3;
 
 if (sum % 5 === 0) {
   console.log(
