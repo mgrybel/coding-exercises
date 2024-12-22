@@ -9,6 +9,6 @@ function gcd(a, b) {
 }
 
 // Example usage
-const num1 = 48;
-const num2 = 18;
-console.log(`GCD of ${num1} and ${num2} is:`, gcd(num1, num2)); // Expected output: 6
+const number1 = 48;
+const number2 = 18;
+console.log(`GCD of ${number1} and ${number2} is:`, gcd(number1, number2)); // Expected output: 6
