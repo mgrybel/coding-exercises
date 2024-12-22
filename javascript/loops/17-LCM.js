@@ -3,15 +3,15 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
-const num1 = parseInt(prompt('Enter the first number: '));
-const num2 = parseInt(prompt('Enter the second number: '));
+const number1 = parseInt(prompt('Enter the first number: '));
+const number2 = parseInt(prompt('Enter the second number: '));
 
 let lcm;
 
-let larger = num1 > num2 ? num1 : num2;
+let larger = number1 > number2 ? number1 : number2;
 
 while (true) {
-  if (larger % num1 === 0 && larger % num2 === 0) {
+  if (larger % number1 === 0 && larger % number2 === 0) {
     lcm = larger;
     break;
   }
@@ -19,5 +19,5 @@ while (true) {
 }
 
 console.log(
-  `The lowest common multiple (LCM) of ${num1} and ${num2} is: ${lcm}`
+  `The lowest common multiple (LCM) of ${number1} and ${number2} is: ${lcm}`
 );
