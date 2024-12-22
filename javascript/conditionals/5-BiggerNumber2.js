@@ -2,11 +2,11 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
-const num1 = parseFloat(prompt('Enter the first number: '));
-const num2 = parseFloat(prompt('Enter the second number: '));
+const number1 = parseFloat(prompt('Enter the first number: '));
+const number2 = parseFloat(prompt('Enter the second number: '));
 
 // Find the bigger number using the Marh.max function
-const biggerNum = Math.max(num1, num2);
+const biggerNum = Math.max(number1, number2);
 
 // Display the result
 console.log(`${biggerNum} is the bigger number.`);
