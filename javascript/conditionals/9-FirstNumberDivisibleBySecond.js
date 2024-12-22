@@ -3,11 +3,11 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
-const num1 = parseFloat(prompt('Enter the first number: '));
-const num2 = parseFloat(prompt('Enter the second number: '));
+const number1 = parseFloat(prompt('Enter the first number: '));
+const number2 = parseFloat(prompt('Enter the second number: '));
 
-if (num1 !== 0 && num1 % num2 === 0) {
-  console.log(`${num1} is divisible by ${num2}`);
+if (number1 !== 0 && number1 % number2 === 0) {
+  console.log(`${number1} is divisible by ${number2}`);
 } else {
-  console.log(`${num1} is  not divisible by ${num2}`);
+  console.log(`${number1} is  not divisible by ${number2}`);
 }
