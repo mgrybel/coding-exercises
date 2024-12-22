@@ -8,7 +8,7 @@ N = int(input("Enter a number: "))
 sum_of_numbers = 0
 number = 1
 
-# Use a while loop to iterate until num reaches N
+# Use a while loop to iterate until number reaches N
 while number <= N:
   # Add the current number to the sum
   sum_of_numbers += number
