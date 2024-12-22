@@ -5,7 +5,7 @@
 sum_of_evens = 0
 number = 2
 
-# Use a while loop to iterate until num reaches 100
+# Use a while loop to iterate until number reaches 100
 while number <= 100:
   # Add the current number to the sum if it is even
   sum_of_evens += number
