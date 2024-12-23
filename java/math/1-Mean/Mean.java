@@ -9,14 +9,14 @@ public class Mean {
 
         // Prompt the user for the first number
         System.out.println("Enter the first number: ");
-        double num1 = scanner.nextDouble();
+        double number1 = scanner.nextDouble();
 
         // Prompt the user for the second number
         System.out.println("Enter the second number: ");
-        double num2 = scanner.nextDouble();
+        double number2 = scanner.nextDouble();
 
         // Calculate the arithmetic mean
-        double arithmeticMean = (num1 + num2) / 2;
+        double arithmeticMean = (number1 + number2) / 2;
 
         // Display the arithmetic mean
         System.out.println("Arithmetic mean: " + arithmeticMean);
