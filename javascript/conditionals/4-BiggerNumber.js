@@ -2,13 +2,13 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
-const num1 = parseFloat(prompt('Enter the first number: '));
-const num2 = parseFloat(prompt('Enter the second number: '));
+const number1 = parseFloat(prompt('Enter the first number: '));
+const number2 = parseFloat(prompt('Enter the second number: '));
 
-if (num1 > num2) {
-  console.log(`${num1} is bigger than ${num2}`);
-} else if (num2 > num1) {
-  console.log(`${num2} is bigger than ${num1}`);
+if (number1 > number2) {
+  console.log(`${number1} is bigger than ${number2}`);
+} else if (number2 > number1) {
+  console.log(`${number2} is bigger than ${number1}`);
 } else {
   console.log('The numbers are equal.');
 }
