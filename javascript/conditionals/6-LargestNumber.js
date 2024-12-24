@@ -6,15 +6,15 @@ const number1 = parseFloat(prompt('Enter the first number: '));
 const number2 = parseFloat(prompt('Enter the second number: '));
 const number3 = parseFloat(prompt('Enter the third number: '));
 
-let largestNum;
+let largestNumber;
 
 if (number1 >= number2 && number1 >= number3) {
-  largestNum = number1;
+  largestNumber = number1;
 } else if (number2 >= number1 && number2 >= number3) {
-  largestNum = number2;
+  largestNumber = number2;
 } else {
-  largestNum = number3;
+  largestNumber = number3;
 }
 
 // Display the result
-console.log(`The largest number is ${largestNum}`);
+console.log(`The largest number is ${largestNumber}`);
