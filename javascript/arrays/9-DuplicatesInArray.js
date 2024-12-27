@@ -20,7 +20,7 @@ for (let i = 0; i < integers.length; i++) {
   }
 }
 
-// Display the result
+// Dsplay the result
 if (containsDuplicate) {
   console.log('The array contains duplicate elements.');
 } else {
