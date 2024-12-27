@@ -17,6 +17,7 @@ for (let i = 0; i < integers.length; i++) {
   }
 }
 
+// Display how many times a number fo find appears in the array
 console.log(
   `The number ${numberToFind} appears ${count} time(s) in the array.`
 );
