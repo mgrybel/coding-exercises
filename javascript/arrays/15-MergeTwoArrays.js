@@ -35,5 +35,5 @@ while (j < arr2.length) {
   j++;
 }
 
-// Display the result
-console.log(`Merged sorted array: ${mergedArray}`);
+// Display the merged sorted array
+console.log(`The merged sorted array: ${mergedArray}`);
