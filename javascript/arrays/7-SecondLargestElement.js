@@ -19,7 +19,7 @@ for (let i = 0; i < integers.length; i++) {
   }
 }
 
-// Check if a second largest element exists
+// Check if the second largest element exists
 if (secondMax !== -Infinity) {
   console.log(`The second largest element in the array is: ${secondMax}`);
 } else {
