@@ -9,6 +9,7 @@ const test2Score = parseFloat(prompt('Enter the score for test 2: '));
 
 const average = (test1Score + test2Score) / 2;
 
+// Check if the student passed and display the average score
 if (average >= 6) {
   console.log(`The student passed. The average score: ${average}.`);
 } else {
