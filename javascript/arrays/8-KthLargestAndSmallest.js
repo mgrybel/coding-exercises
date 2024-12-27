@@ -14,5 +14,6 @@ integers.sort((a, b) => a - b);
 const kthSmallest = integers[k - 1];
 const kthLargest = integers[integers.length - k];
 
+// Display the the kth largest and smallest element in the array
 console.log(`The ${k}th smallest element in the array is: ${kthSmallest}`);
 console.log(`The ${k}th largest element in the array is: ${kthLargest}`);
