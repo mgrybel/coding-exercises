@@ -15,4 +15,5 @@ for (let i = 0; i < integers.length; i++) {
 
 const average = sum / integers.length;
 
+// Display the average of all elements
 console.log(`The average of all elements is: ${average}`);
