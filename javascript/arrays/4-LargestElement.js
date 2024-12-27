@@ -14,4 +14,5 @@ for (let i = 1; i < integers.length; i++) {
   }
 }
 
+// Display the largest element in the array
 console.log(`The largest element in the array is: ${largest}`);
