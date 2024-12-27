@@ -6,12 +6,14 @@ const prompt = require('prompt-sync')({ sigint: true });
 const test1Score = parseFloat(prompt('Enter the score for test 1: '));
 const test2Score = parseFloat(prompt('Enter the score for test 2: '));
 
+// Check if the student passed test 1
 if (test1Score >= 6) {
   console.log('The student passed test 1.');
 } else {
   console.log('The student failed test 1.');
 }
 
+// Check if the student passed test 2
 if (test2Score >= 6) {
   console.log('The student passed test 2.');
 } else {
