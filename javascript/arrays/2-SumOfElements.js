@@ -12,4 +12,5 @@ for (let i = 0; i < integers.length; i++) {
   sum += integers[i];
 }
 
+// Display the sum of all elements
 console.log(`The sum of all elements is: ${sum}`);
