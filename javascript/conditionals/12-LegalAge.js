@@ -22,5 +22,5 @@ if (age3 >= 18) {
   legalAgeCount++;
 }
 
-// Display the result
+// Display the number of people of legal age
 console.log(`The number of people of legal age is ${legalAgeCount}`);
