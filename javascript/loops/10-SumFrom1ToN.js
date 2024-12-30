@@ -12,4 +12,5 @@ for (let i = 1; i <= N; i++) {
   sum += i;
 }
 
+// Display the sum of numbers from 1 to N
 console.log(`The sum of numbers from 1 to ${N} is: ${sum}`);
