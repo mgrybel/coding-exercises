@@ -10,7 +10,7 @@ const number3 = parseFloat(prompt('Enter the third number: '));
 // Calculate the sum of the three numbers
 const sum = number1 + number2 + number3;
 
-// Check if the sum is positive, negative, or zero
+// Check if the sum is positive, negative, or zero and display the result
 if (sum > 0) {
   console.log(
     `The sum of the three numbers is equal to ${sum}, and it is a positive number.`
