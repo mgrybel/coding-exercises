@@ -40,7 +40,7 @@ if (number1 <= number2 && number1 <= number3) {
   }
 }
 
-// Display the result
+// Display the numbers in ascending order
 console.log(
   `The numbers in ascending order: ${smallest}, ${middle}, ${largest}.`
 );
