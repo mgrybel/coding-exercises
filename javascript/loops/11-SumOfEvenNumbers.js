@@ -9,4 +9,5 @@ while (number <= 100) {
   number += 2; // Move to the next even number
 }
 
+// Display the sum of even numbers from 1 to 100
 console.log(`The sum of even numbers from 1 to 100 is: ${sum}`);
