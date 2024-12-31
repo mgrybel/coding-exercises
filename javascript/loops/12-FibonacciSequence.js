@@ -25,4 +25,5 @@ while (a <= limit) {
   b = temp;
 }
 
+// Display the Fibonacci sequence up to the limit entered by the user
 console.log(`The Fibonacci sequence up to ${limit} is: ${result}`);
