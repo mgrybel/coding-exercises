@@ -19,6 +19,7 @@ while (number !== 0) {
   number = parseInt(prompt('Enter a number (or enter 0 to stop): '));
 }
 
+// Display the largest and smallest numbers on the list
 if (largest === Number.MIN_VALUE && smallest === Number.MAX_VALUE) {
   console.log('No numbers were entered');
 } else {
