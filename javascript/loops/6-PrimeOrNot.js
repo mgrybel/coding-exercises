@@ -19,6 +19,7 @@ if (number <= 1) {
   }
 }
 
+// Display the result
 if (isPrime) {
   console.log(`${number} is a prime number.`);
 } else {
