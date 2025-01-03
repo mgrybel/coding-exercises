@@ -15,4 +15,5 @@ while (number >= 0) {
   );
 }
 
+// Display the sum of the positive numbers entered by the user
 console.log(`The sum of the positive numbers entered is: ${sum}`);
