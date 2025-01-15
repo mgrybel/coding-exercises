@@ -17,4 +17,4 @@ for i in range(1, smaller + 1):
     gcd = i
 
 # Display the GCD
-print("GCD of", number1, "and", number2, "is:", gcd)
+print("The GCD of", number1, "and", number2, "is:", gcd)
