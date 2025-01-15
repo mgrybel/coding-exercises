@@ -17,6 +17,6 @@ for i in range(n):
 reversed_array = array[::-1]
 
 # Display the elements in reverse order
-print("Elements in reverse order:")
+print("The elements in reverse order:")
 for element in reversed_array:
   print(element)
