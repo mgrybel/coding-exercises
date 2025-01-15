@@ -25,5 +25,6 @@ const matrix2 = [
 console.log('Matrix 1:', matrix1);
 console.log('Matrix 2:', matrix2);
 
+// Display the sum of the two matrices
 const resultMatrix = matrixSum(matrix1, matrix2);
 console.log('The sum of the matrices:', resultMatrix);
