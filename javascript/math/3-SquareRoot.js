@@ -7,4 +7,5 @@ const userInput = parseFloat(prompt('Enter a number: '));
 // Calculate the square root regardless of whether the input is valid
 const squareRoot = Math.sqrt(userInput);
 
+// Display the result
 console.log(`The square root of ${userInput} is equal to ${squareRoot}`);
