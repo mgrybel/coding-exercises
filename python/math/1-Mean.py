@@ -7,5 +7,5 @@ number2 = float(input('Enter the second number: '))
 # Calculate the arithmetic mean
 mean = (number1 + number2) / 2
 
-# Display the result
-print('Arithmetic mean:', mean)
+# Display the arithmetic mean
+print('The arithmetic mean:', mean)
