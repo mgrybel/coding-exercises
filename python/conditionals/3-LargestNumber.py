@@ -13,5 +13,5 @@ elif number2 >= number1 and number2 >= number3:
 else:
   largest_number = number3
 
-# Display the largest number to the user
+# Display the largest number
 print('The largest number is:', largest_number)
