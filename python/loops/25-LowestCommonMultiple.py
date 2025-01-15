@@ -16,4 +16,4 @@ while True:
   maximum += 1
 
 # Display the LCM
-print("LCM of", number1, "and", number2, "is:", lcm)
+print("The LCM of", number1, "and", number2, "is:", lcm)
