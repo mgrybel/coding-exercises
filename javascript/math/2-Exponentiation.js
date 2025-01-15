@@ -9,4 +9,5 @@ const exponent = parseFloat(prompt('Enter the exponent: '));
 // Calculate the result using the Math.pow() function
 const result = Math.pow(base, exponent);
 
+// Display the result
 console.log(`${base} raised to the power of ${exponent} is equal to ${result}`);
