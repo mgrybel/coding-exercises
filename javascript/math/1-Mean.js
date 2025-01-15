@@ -10,6 +10,7 @@ const thirdNumber = parseFloat(prompt('Enter the third number: '));
 // Calculate the arithmetic mean
 const mean = (firstNumber + secondNumber + thirdNumber) / 3;
 
+// Display the result
 console.log(
   `The arithmetic mean of ${firstNumber}, ${secondNumber}, and ${thirdNumber} is ${mean}.`
 );
