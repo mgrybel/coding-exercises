@@ -23,7 +23,7 @@ for (let i = 0; i < 5; i++) {
 console.log('The original matrix:');
 console.log(matrix);
 
-// Display largest value and its position
+// Display the largest value and its position
 console.log(
   `The largest value: ${largestValue} at position [${largestValueRow}][${largestValueCol}]`
 );
