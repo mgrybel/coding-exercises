@@ -15,6 +15,6 @@ perimeter = side_a + side_b + side_c
 # Calculate the area
 area = (side_b + height) / 2
 
-# Display the results
-print('Perimeter of the triangle', perimeter)
-print('Area of the triangle:', area)
+# Display the perimeter and area of the triangle
+print('The perimeter of the triangle', perimeter)
+print('The area of the triangle:', area)
