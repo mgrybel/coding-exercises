@@ -9,5 +9,5 @@ velocity = float(input('Enter the velocity of the object: '))
 # Calculate the kinetic energy
 kinetic_energy = (mass * velocity ** 2) / 2
 
-# Display the result
+# Display the kinetic energy of the object
 print('The kinetic energy of the object is:', kinetic_energy)
