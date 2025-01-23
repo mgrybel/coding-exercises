@@ -9,5 +9,5 @@ grade3 = float(input('Enter the third grade: '))
 # Calculate the arithmetic mean
 mean = (grade1 + grade2 + grade3) / 3
 
-# Display the result
-print('Arithmetic mean:', mean)
+# Display the arithmetic mean
+print('The arithmetic mean:', mean)
