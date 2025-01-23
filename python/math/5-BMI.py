@@ -8,5 +8,5 @@ height = float(input('Enter your height in meters: '))
 # Calculate the BMI
 bmi = weight / (height ** 2)
 
-# Display the result
+# Display the BMI
 print('Your BMI is:', bmi)
