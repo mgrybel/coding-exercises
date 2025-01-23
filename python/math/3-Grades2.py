@@ -12,5 +12,5 @@ mean = (grade1 + grade2 + grade3) / 3
 # Round the mean to two decimal places
 rounded_mean = round(mean, 2)
 
-# Display the result
-print('Arithmetic mean:', '{:.2f}'.format(rounded_mean))
+# Display the arithmetic mean
+print('The arithmetic mean:', '{:.2f}'.format(rounded_mean))
