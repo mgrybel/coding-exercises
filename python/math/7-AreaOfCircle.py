@@ -9,5 +9,5 @@ radius = float(input('Enter the radius of the circle: '))
 # Calculate the area
 area = math.pi * radius ** 2
 
-# Display the result
+# Display the area of the circle
 print('The area of the circle is:', area)
