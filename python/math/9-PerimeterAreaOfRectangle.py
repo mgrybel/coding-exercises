@@ -11,6 +11,6 @@ perimeter = 2 * (width + length)
 # Calculate the area
 area = width * length
 
-# Display the results
-print('Perimeter of the rectangle:', perimeter)
-print('Area of the rectangle:', area)
+# Display the perimeter and area of the rectangle
+print('The perimeter of the rectangle:', perimeter)
+print('The area of the rectangle:', area)
