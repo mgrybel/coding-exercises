@@ -14,5 +14,5 @@ y2 = float(input('Enter the y coordinate of point 2: '))
 # Calculate the distance between the two points
 distance = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
 
-# Display the result
+# Display the distance between the two points
 print('The distance between the two points is:', distance)
