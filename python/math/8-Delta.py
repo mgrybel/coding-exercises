@@ -8,5 +8,5 @@ c = float(input('Enter the coefficient c: '))
 # Calculate the delta
 delta = b ** 2 - 4 * a * c
 
-# Display the result
+# Display the delta of the quadratic equation
 print('The delta of the quadratic equation is:', delta)
