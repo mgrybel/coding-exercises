@@ -9,5 +9,5 @@ radius = float(input('Enter the radius of the circle: '))
 # Calculate the perimeter
 perimeter = 2 * math.pi * radius
 
-# Display the result
+# Display the perimeter of the circle
 print('The perimeter of the circle is:', perimeter)
