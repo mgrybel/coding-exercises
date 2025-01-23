@@ -12,5 +12,5 @@ number3 = float(input('Enter the third number: '))
 product = number1 * number2 * number3
 geometric_mean = math.pow(product, 1/3)
 
-# Display the result
-print('Geometric mean', geometric_mean)
+# Display the geometric mean
+print('The geometric mean', geometric_mean)
