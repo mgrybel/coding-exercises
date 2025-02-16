@@ -22,6 +22,6 @@ while start < end:
   end -= 1
 
 # Display the elements in reverse order
-print("Elements in reverse order:")
+print("The elements in reverse order:")
 for element in array:
   print(element)
