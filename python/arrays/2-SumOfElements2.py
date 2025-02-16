@@ -1,5 +1,6 @@
 # Write a program that reads an array of integers and 
 # displays the sum of all the elements.
+
 # Using a while loop
 
 # Prompt the user for the number of elements in the array
