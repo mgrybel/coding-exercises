@@ -10,7 +10,7 @@ array = []
 # Read the elements of the array from the user
 print("Enter elements for the array:")
 for i in range(n):
-  element = int(input("Enter element {}:".format(i + 1)))
+  element = int(input("Enter element {}: ".format(i + 1)))
   array.append(element)
 
 # Prompt the user for the number of elements to search for
