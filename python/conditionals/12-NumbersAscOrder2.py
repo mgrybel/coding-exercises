@@ -1,5 +1,6 @@
 # Write a program that reads three numbers and displays
 # them on the screen in ascending order.
+
 # Using list and sort
 
 # Prompt the user to enter three numbers
