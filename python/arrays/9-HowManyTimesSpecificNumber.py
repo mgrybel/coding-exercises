@@ -4,7 +4,7 @@
 # Prompt the user for the size of the array
 n = int(input("Enter the size of the array: "))
 
-# Initialize an empty list to store the array of elements
+# Initialize an empty list to store the elements of the array
 array = []
 
 # Read the elements of the array from the user
