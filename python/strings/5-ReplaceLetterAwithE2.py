@@ -4,6 +4,8 @@
 # Case-sensitive
 # The program replaces only the lowercase "a", not the uppercase "A"
 
+# Using a for loop
+
 sentence = input("Enter a sentence: ")
 
 new_sentence = ""
