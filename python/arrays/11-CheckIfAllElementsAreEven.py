@@ -9,7 +9,7 @@ array = []
 
 # Read the elements of the array from the user
 print("Enter elements for the array:")
-for i in range(n):
+for i in range(size):
   element = int(input("Enter element {}: ".format(i + 1)))
   array.append(element)
 
