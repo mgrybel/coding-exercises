@@ -1,6 +1,8 @@
 # Write a program that takes a word and 
 # displays each letter separately.
 
+# Using a while loop
+
 word = input("Enter a word: ")
 
 index = 0
