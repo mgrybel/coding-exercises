@@ -3,6 +3,7 @@
 # the same way).
 
 # Case-sensitive
+# Using slicing
 
 word = input("Enter a word: ")
 
