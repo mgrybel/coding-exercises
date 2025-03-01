@@ -3,7 +3,7 @@
 # the same way).
 
 # Case-sensitive
-# Using for loop
+# Using a for loop
 
 word = input("Enter a word: ")
 
