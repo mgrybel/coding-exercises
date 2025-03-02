@@ -1,5 +1,6 @@
 // Write a program that reads two words and checks if
 // the second word is an anagram of the first.
+
 // Anagram examples: dusty=study, state=taste, cider=cried,
 // arc=car, bored=robed, peach=cheap
 
