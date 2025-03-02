@@ -1,6 +1,7 @@
-# Write a program that reads a word and checks if 
-# it is a palindrome (if it can be read backwards
-# the same way).
+# Write a program that reads a word and checks if it is 
+# a palindrome (if it can be read backwards the same way).
+
+# Palindrome examples: Madam, civic, deed, Kayak, level, pop, Hannah, Anna, mom
 
 # Case-sensitive
 # Using slicing
