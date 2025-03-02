@@ -1,6 +1,7 @@
-// Write a program that asks for a person's age and checks whether they are a child (0-12 years old),
-// a teenager (13-17), an adult (18 - 59), or an elderly (60 years old and older),
-// using logical operators, without if, else, etc.
+// Write a program that asks for a person's age and checks whether
+// they are a child (0-12 years old), a teenager (13-17), an adult (18 - 59),
+// or an elderly (60 years old and older), using logical operators,
+// without if, else, etc.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
