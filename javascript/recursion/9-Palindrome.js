@@ -1,4 +1,5 @@
 // Write a recursive function to determine whether a word is a palindrome.
+
 // Palindrome is a word, phrase, or sequence that reads the same backwards as forwards,
 // e.g. 'madam' or 'nurses run'.
 
