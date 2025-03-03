@@ -1,5 +1,6 @@
-// Write a program that reads numbers from the user until a negative number is entered,
-// and prints the sum of the positive numbers.
+// Write a program that reads numbers from the user until
+// a negative number is entered, and prints the sum of
+// the positive numbers.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
