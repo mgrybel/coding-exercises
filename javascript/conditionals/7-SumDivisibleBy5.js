@@ -8,8 +8,7 @@ const number3 = parseFloat(prompt('Enter the third number: '));
 
 const sum = number1 + number2 + number3;
 
-// Check if the sum of the three numbers is divisible by 5
-// and display the result
+// Check if the sum of the three numbers is divisible by 5 and display the result
 if (sum % 5 === 0) {
   console.log(
     `The sum of the three numbers is ${sum} and it is divisible by 5.`
