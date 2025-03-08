@@ -5,8 +5,7 @@ const prompt = require('prompt-sync')({ sigint: true });
 
 const number = parseFloat(prompt('Enter a number: '));
 
-// Check if the number is divisible by 3 and 5 at the same time
-// and display the result
+// Check if the number is divisible by 3 and 5 at the same time and display the result
 if (number % 3 === 0 && number % 5 === 0) {
   console.log(`${number} is divisible by both 3 and 5.`);
 } else {
