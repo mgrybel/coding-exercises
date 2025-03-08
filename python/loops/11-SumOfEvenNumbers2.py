@@ -1,5 +1,4 @@
-# Write a program that calculates and displays the sum of
-# even numbers from 1 to 100 using a loop.
+# Write a program that calculates and displays the sum of even numbers from 1 to 100 using a loop.
 
 # Initialize a variable
 sum_of_evens = 0
