@@ -1,5 +1,4 @@
-# Write a program that asks the user for a number N
-# and says whether it is prime or not.
+# Write a program that asks the user for a number N and says whether it is prime or not.
 
 # Prompt the user for a number
 number = int(input("Enter a number: "))
