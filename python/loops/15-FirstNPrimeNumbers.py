@@ -1,5 +1,4 @@
-# Write a program that displays the first N prime numbers,
-# where N is informed by the user, using a loop.
+# Write a program that displays the first N prime numbers, where N is informed by the user, using a loop.
 
 # Prompt the user for a number
 N = int(input("Enter the value of N: "))
