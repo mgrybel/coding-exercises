@@ -1,11 +1,12 @@
+// Remove duplicate characters from a given string
+// Input: hackerearth
+// Output: hackert
+
 package strings.RemoveDuplicates;
 
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 
-// Remove duplicate characters from a given string
-// Input: hackerearth
-// Output: hackert
 public class RemoveDuplicates {
     public static String removeDup(String inputString) {
         String lowercaseString = inputString.toLowerCase();
