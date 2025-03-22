@@ -1,10 +1,11 @@
+// Write a program to calculate the count of non-space characters in a given string.
+// Input: This is a string
+// Output: 13
+
 package strings.CharacterCount;
 
 import java.util.Scanner;
 
-// Write a program to calculate the count of non-space characters in a given string.
-// Input: This is a string
-// Output: 13
 public class CharacterCount {
     public static void main(String[] args) {
         // Create a scanner object to read input from the user
