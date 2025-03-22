@@ -1,8 +1,9 @@
-package strings.PrimeNumbers;
-
 // Write a program to check whether the given number is prime or not.
 // Input: 7
 // Output: prime
+
+package strings.PrimeNumbers;
+
 public class PrimeNumbers {
     public static boolean isPrime(int n) {
         if (n <= 1) {
