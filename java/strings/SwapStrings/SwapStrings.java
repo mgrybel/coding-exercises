@@ -1,8 +1,9 @@
-package strings.SwapStrings;
-
 // Write a program to swap two strings using a substring method.
 // Input: Hello World
 // Output: World Hello
+
+package strings.SwapStrings;
+
 public class SwapStrings {
     public static void main(String[] main) {
         String string1 = "Hello";
