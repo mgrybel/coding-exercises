@@ -1,10 +1,11 @@
+// Reverse a given string
+// Input: This is a string
+// Output: gnirts a si sihT
+
 package strings.ReverseString3;
 
 import java.util.Scanner;
 
-// Reverse a given string
-// Input: This is a string
-// Output: gnirts a si sihT
 public class ReverseString3 {
     public static String reverse(String input) {
         String reversedString = "";
