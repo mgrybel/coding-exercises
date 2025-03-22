@@ -1,8 +1,9 @@
-package strings.LeapYear;
-
 // Write a program that checks whether the year is leap or not.
 // Input: 2020
 // Output: Leap
+
+package strings.LeapYear;
+
 public class LeapYear {
     public static boolean isLeap(int year) {
         if (year % 4 == 0) {
