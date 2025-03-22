@@ -1,10 +1,11 @@
+// Find duplicate characters in a given string string, e.g.
+// Input: hackerearth
+// Output: h a e r
+
 package strings.FindDuplicates;
 
 import java.util.Scanner;
 
-// Find duplicate characters in a given string string, e.g.
-// Input: hackerearth
-// Output: h a e r
 public class FindDuplicates {
     public static void main(String[] args) {
         // Create a scanner object to read input from the user
