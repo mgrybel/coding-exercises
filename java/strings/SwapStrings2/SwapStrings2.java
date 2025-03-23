@@ -1,8 +1,9 @@
-package strings.SwapStrings2;
-
 // Write a program to swap two strings using a temp variable.
 // Input: Hello World
 // Output: World Hello
+
+package strings.SwapStrings2;
+
 public class SwapStrings2 {
     public static void main(String[] args) {
         String string1 = "Hello";
