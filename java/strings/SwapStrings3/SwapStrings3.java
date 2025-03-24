@@ -1,8 +1,9 @@
-package strings.SwapStrings3;
-
 // Write a program to swap two strings using the StringBuilder class.
 // Input: Hello World
 // Output: World Hello
+
+package strings.SwapStrings3;
+
 public class SwapStrings3 {
     public static void main(String[] args) {
         String firstString = "Hello";
