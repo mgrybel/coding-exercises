@@ -1,6 +1,7 @@
 # Write a program that receives a name and checks if
 # it starts with the letter "A".
 
+# Prompt the user for a name
 name = input("Enter a name: ")
 
 if name.startswith("A"):
