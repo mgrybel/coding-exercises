@@ -6,6 +6,7 @@
 # Case-sensitive
 # Using a for loop
 
+# Prompt the user for a word
 word = input("Enter a word: ")
 
 is_palindrome = True
