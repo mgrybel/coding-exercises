@@ -3,6 +3,7 @@
 
 # Using a while loop
 
+# Prompt the user for a word
 word = input("Enter a word: ")
 
 index = 0
