@@ -6,6 +6,7 @@
 # Case-sensitive
 # Using slicing
 
+# Prompt the user for a word
 word = input("Enter a word: ")
 
 reversed_word = word[::-1] # Reverse the word using slicing
