@@ -4,6 +4,7 @@
 # Anagram examples: dusty=study, state=taste, cider=cried,
 # arc=car, bored=robed, peach=cheap
 
+# Prompt the user for two words
 word1 = input("Enter the first word: ")
 word2 = input("Enter the second word: ")
 
