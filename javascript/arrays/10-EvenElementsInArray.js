@@ -1,4 +1,5 @@
-// Create a program that reads an array of integers and checks if all elements are even.
+// Create a program that reads an array of integers
+// and checks if all elements are even.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
