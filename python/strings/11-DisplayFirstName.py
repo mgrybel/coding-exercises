@@ -1,6 +1,7 @@
 # Write a program that takes a full name 
 # and displays only the first name.
 
+# Prompt the user for a full name
 full_name = input("Enter your full name: ")
 
 # Split the full name into a list of names using 
