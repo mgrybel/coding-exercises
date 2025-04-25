@@ -1,5 +1,6 @@
 # Write a program that reads a word and displays the number of viwels present in it.
 
+# Prompt the user for a word
 word = input("Enter a word: ")
 
 # Define a list of vowels
