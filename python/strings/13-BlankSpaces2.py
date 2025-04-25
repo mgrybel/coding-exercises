@@ -3,6 +3,7 @@
 
 # Using the count function
 
+# Prompt the user for a sentence
 sentence = input("Enter a sentence: ")
 
 # Use the count() function to count the number of blank spaces
