@@ -1,6 +1,7 @@
 // Write a program that reads the scores of two tests,
-// calculate the simple arithmetic mean, and checks if the student passed
-// (average greater than or equal to 6) or failed (average less than 6).
+// calculate the simple arithmetic mean, and checks
+// if the student passed (average greater than or equal
+// to 6) or failed (average less than 6).
 
 const prompt = require('prompt-sync')({ sigint: true });
 
