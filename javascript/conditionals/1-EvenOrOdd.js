@@ -1,4 +1,5 @@
-// Write a program that reads a number and reports whether the number is even or odd.
+// Write a program that reads a number and reports
+// whether the number is even or odd.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
