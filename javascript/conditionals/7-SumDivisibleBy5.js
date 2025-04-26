@@ -1,4 +1,5 @@
-// Write a program that reads three numbers and checks if the sum is divisible by 5 or not.
+// Write a program that reads three numbers and
+// checks if the sum is divisible by 5 or not.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
