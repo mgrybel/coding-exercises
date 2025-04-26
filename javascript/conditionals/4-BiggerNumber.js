@@ -1,4 +1,5 @@
-// Write a program that reads two numbers and tells you which one is bigger.
+// Write a program that reads two numbers
+// and tells you which one is bigger.
 
 const prompt = require('prompt-sync')({ sigint: true });
 
