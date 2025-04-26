@@ -1,4 +1,5 @@
-// Write a program that displays the numbers from 1 to 10 using a while loop.
+// Write a program that displays the numbers
+// from 1 to 10 using a while loop.
 
 let number = 1;
 
