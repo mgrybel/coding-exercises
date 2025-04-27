@@ -1,5 +1,6 @@
-// Write a program that fills a 4x4 matrix with random numbers and
-// displays the sum of the values present in each row and in each column.
+// Write a program that fills a 4x4 matrix with
+// random numbers and displays the sum of the values
+// present in each row and in each column.
 
 function generateMatrix(rows, cols) {
   const matrix = [];
