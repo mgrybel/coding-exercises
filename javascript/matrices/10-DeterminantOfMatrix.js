@@ -1,4 +1,5 @@
-// Write a program that reads a 3x3 matrix and calculates the determinant of the matrix.
+// Write a program that reads a 3x3 matrix and
+// calculates the determinant of the matrix.
 
 function determinant(matrix) {
   const [[a, b, c], [d, e, f], [g, h, i]] = matrix;
