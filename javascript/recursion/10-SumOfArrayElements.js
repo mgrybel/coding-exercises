@@ -1,4 +1,5 @@
-// Write a recursive function to calculate the sum of elements of an array.
+// Write a recursive function to calculate
+// the sum of elements of an array.
 
 function arraySum(arr) {
   if (arr.length === 0) {
