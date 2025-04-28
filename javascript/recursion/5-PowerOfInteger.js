@@ -1,4 +1,5 @@
-// Write a recursive function to calculate the power of an integer raised to an exponent.
+// Write a recursive function to calculate
+// the power of an integer raised to an exponent.
 
 function power(base, exponent) {
   if (exponent === 0) {
