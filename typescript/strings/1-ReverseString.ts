@@ -1,5 +1,4 @@
-// Write a program to reverse a string
-// Using a for loop
+// Write a program to reverse a string using a for loop
 
 function reverseStringUsingLoop(str: string): string {
   let reversed = '';
