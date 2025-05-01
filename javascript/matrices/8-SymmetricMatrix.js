@@ -1,5 +1,4 @@
-// write a program to determine whether
-// a given matrix is symmetric.
+// write a program to determine whether a given matrix is symmetric.
 
 function isSymmetric(matrix) {
   const rows = matrix.length;
