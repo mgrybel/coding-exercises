@@ -1,5 +1,4 @@
-// Write a program that displays all numbers
-// from 1 to 100 using a do-while loop.
+// Write a program that displays all numbers from 1 to 100 using a do-while loop.
 
 let number = 1;
 
