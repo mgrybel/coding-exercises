@@ -1,4 +1,5 @@
-// Write a recursive function to find the greatest common divisor (GCD) of two numbers.
+// Write a recursive function to find
+// the greatest common divisor (GCD) of two numbers.
 
 function gcd(a, b) {
   if (b === 0) {
