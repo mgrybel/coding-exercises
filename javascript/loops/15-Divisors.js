@@ -2,6 +2,7 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+// Prompt the user for a number
 const number = parseInt(prompt('Enter a number: '));
 
 console.log(`The divisors of ${number} are:`);
