@@ -3,6 +3,7 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+// Prompt the user for two numbers
 const number1 = parseInt(prompt('Enter the first number: '));
 const number2 = parseInt(prompt('Enter the second number: '));
 
