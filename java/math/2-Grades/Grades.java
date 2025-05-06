@@ -1,4 +1,5 @@
-// Write a program that calculates and displays the arithmetic mean of three grades entered by the user.
+// Write a program that calculates and displays the arithmetic mean 
+// of three grades entered by the user.
 
 import java.util.Scanner;
 
