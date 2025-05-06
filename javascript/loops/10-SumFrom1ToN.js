@@ -3,6 +3,7 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+// Prompt the user for a number
 const N = parseInt(prompt('Enter a number: '));
 
 let sum = 0;
