@@ -3,6 +3,7 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+// Prompt the user for a number
 const number = parseInt(prompt('Enter a number: '));
 
 let isPrime = true;
