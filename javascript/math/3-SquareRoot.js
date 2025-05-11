@@ -3,6 +3,7 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+// Prompt the user for a number
 const userInput = parseFloat(prompt('Enter a number: '));
 
 // Calculate the square root regardless of whether the input is valid
