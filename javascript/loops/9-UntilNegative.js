@@ -6,6 +6,7 @@ const prompt = require('prompt-sync')({ sigint: true });
 
 let sum = 0;
 let number = parseInt(
+  // Prompt the user for a positive number
   prompt(`Enter a positive number (or enter a negative number to stop): `)
 );
 
