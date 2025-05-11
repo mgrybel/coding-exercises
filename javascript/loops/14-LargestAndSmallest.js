@@ -6,6 +6,8 @@ const prompt = require('prompt-sync')({ sigint: true });
 
 let largest = Number.MIN_VALUE;
 let smallest = Number.MAX_VALUE;
+
+// Prompt the user for a number
 let number = parseInt(prompt('Enter a number (or enter 0 to stop): '));
 
 while (number !== 0) {
