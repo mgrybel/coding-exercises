@@ -11,6 +11,7 @@
 const prompt = require('prompt-sync')({ sigint: true });
 
 const limit = parseInt(
+  // Prompt the user for a number
   prompt('Enter a number to generate the Fibonacci sequence: ')
 );
 
