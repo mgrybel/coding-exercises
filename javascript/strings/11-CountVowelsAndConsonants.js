@@ -2,7 +2,9 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+// Prompt the user for a word
 const word = prompt('Enter a word: ');
+
 const vowels = ['a', 'e', 'i', 'o', 'u'];
 let vowelCount = 0;
 let consonantCount = 0;
