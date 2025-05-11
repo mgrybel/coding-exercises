@@ -3,6 +3,7 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+// Prompt the user for three numbers
 const firstNumber = parseFloat(prompt('Enter the first number: '));
 const secondNumber = parseFloat(prompt('Enter the second number: '));
 const thirdNumber = parseFloat(prompt('Enter the third number: '));
