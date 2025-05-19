@@ -6,9 +6,11 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+// Prompt the user for two words
 const word1 = prompt('Enter the first word: ');
 const word2 = prompt('Enter the second word: ');
 
+// Convert both words to lowercase and remove whitespace
 const sortedWord1 = word1.toLowerCase().split('').sort().join('');
 const sortedWord2 = word2.toLowerCase().split('').sort().join('');
 
