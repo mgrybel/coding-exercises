@@ -2,7 +2,9 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+// Prompt the user for a sentence
 const sentence = prompt('Enter a sentence: ');
+
 let replacedSentence = sentence.split(' ').join('\n');
 
 console.log('Modified sentence:');
