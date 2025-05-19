@@ -6,7 +6,10 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+//  Prompt the user for a word
 const word = prompt('Enter a word: ').toLowerCase();
+
+// Reverse the word
 const reversedWord = word.toLowerCase().split('').reverse().join('');
 
 if (word === reversedWord) {
