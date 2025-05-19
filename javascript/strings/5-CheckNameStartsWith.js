@@ -2,6 +2,7 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+// Prompt the user for a name
 const name = prompt('Enter a name: ');
 
 if (name.charAt(0).toUpperCase() === 'A') {
