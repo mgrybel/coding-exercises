@@ -2,7 +2,9 @@
 
 const prompt = require('prompt-sync')({ sigint: true });
 
+// Prompt the user for a full name
 const fullName = prompt('Enter your full name: ');
+
 const firstName = fullName.split(' ')[0];
 
 console.log('First name:', firstName);
