@@ -20,6 +20,11 @@ for i in range(5):
       max_value = matrix[i][j]
       max_position = (i, j)
 
+# Display the matrix
+print("The matrix:")
+for row in matrix:
+  print(row)
+
 # Display the largest value and its position
 print(f"The largest value: {max_value}")
 print(f"The position of the largest value: ({max_position[0] + 1}, {max_position[1] + 1})")
