@@ -18,6 +18,16 @@ for i in range(2):
   for j in range(2):
     matrix2[i][j] = int(input(f"Enter an element at position ({i + 1}, {j + 1}): "))
 
+# Display the matrix
+print("Matrix 1:")
+for row in matrix1:
+  print(row)
+
+# Display the matrix
+print("Matrix 2:")
+for row in matrix2:
+  print(row)
+
 # Calculate the sum of of the matrices
 for i in range(2):
   for j in range(2):
