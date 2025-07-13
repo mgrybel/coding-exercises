@@ -14,6 +14,11 @@ for _ in range(3):
     row.append(value)
   matrix.append(row)
 
+# Display the matrix
+print("The matrix:")
+for row in matrix:
+  print(row)
+
 # Calculate the sum and count of the values at even positions
 sum_even = 0
 count_even = 0
