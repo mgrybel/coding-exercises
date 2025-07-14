@@ -1,6 +1,6 @@
 # Write a recursive function to check if a number is prime.
 
-def is_prime(n, divisor=2):
+def is_prime(n, divisor = 2):
   # Base cases
   if n <= 1:
     return False
