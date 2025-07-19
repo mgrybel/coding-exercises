@@ -13,7 +13,7 @@ def bubble_sort(arr):
       if (arr[j] > arr[j + 1]):
         arr[j], arr[j + 1] = arr[j + 1], arr[j]
 
-# Test rhw bubble_sort function
+# Test the bubble_sort function
 arr = [64, 34, 25, 12, 22, 11, 90]
 print("The original array:", arr)
 
