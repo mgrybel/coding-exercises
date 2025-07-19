@@ -12,4 +12,4 @@ def is_palindrome(word):
     return False
   
 # Example
-print("Is the word 'kayak' a palindrome:", is_palindrome("kayak"))
+print("Is the word 'kayak' a palindrome?", is_palindrome("kayak"))
