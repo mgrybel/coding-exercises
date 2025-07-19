@@ -10,4 +10,4 @@ def gcd(a, b):
   return gcd(b, a % b)
 
 # Example
-print("The GCD of 12 and 6:", gcd(12, 6))
+print("The greatest common divisor (GCD) of 12 and 6 is equal to:", gcd(12, 6))
