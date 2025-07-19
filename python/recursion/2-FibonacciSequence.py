@@ -13,4 +13,4 @@ def fibonacci(n):
     return fibonacci(n - 1) + fibonacci(n - 2)
   
 # Example
-print("A Fibonacci sequence of 7:", fibonacci(7))
+print("The Fibonacci sequence of 7:", fibonacci(7))
