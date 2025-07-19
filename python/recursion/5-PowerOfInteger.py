@@ -10,4 +10,4 @@ def power(base, exponent):
   return base * power(base, exponent - 1)
 
 # Example
-print("3 to the power of 4:", power(3, 4))
+print("3 to the power of 4 is equal to:", power(3, 4))
