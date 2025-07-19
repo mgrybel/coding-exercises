@@ -9,4 +9,4 @@ def factorial(n):
     return n * factorial(n - 1)
   
 # Example
-print("Factorial of 5:", factorial(5))
+print("The factorial of 5:", factorial(5))
