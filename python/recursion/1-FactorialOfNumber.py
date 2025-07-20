@@ -8,5 +8,5 @@ def factorial(n):
   else:
     return n * factorial(n - 1)
   
-# Example
+# Test the factorial function
 print("The factorial of 5:", factorial(5))
