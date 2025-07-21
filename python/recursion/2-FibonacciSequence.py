@@ -12,5 +12,5 @@ def fibonacci(n):
   else:
     return fibonacci(n - 1) + fibonacci(n - 2)
   
-# Example
+# Test the fibonacci function
 print("The Fibonacci sequence of 7:", fibonacci(7))
