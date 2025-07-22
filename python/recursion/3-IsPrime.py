@@ -13,5 +13,5 @@ def is_prime(n, divisor = 2):
   # Recursive case
   return is_prime(n, divisor + 1)
 
-# Example
+# Test the is_prime function
 print("Is 11 a prime number?", is_prime(11))
