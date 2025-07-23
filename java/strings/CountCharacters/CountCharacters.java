@@ -1,3 +1,5 @@
+// Write a program to count the number of characters in a given string.
+
 package strings.CountCharacters;
 
 import java.util.Scanner;
