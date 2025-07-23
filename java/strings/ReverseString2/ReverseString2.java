@@ -1,4 +1,4 @@
-// Reverse a given string
+// Write a program to reverse a given string.
 // Input: This is a string
 // Output: gnirts a si sihT
 
