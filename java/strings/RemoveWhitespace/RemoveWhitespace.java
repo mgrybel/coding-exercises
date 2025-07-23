@@ -1,3 +1,5 @@
+// Write a program to remove whitespace characters from a given string.
+
 package strings.RemoveWhitespace;
 
 import java.util.Scanner;
