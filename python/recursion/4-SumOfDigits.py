@@ -8,5 +8,5 @@ def sum_of_digits(n):
   # Recursive case
   return (n % 10) + sum_of_digits(n // 10)
 
-# Example
+# Test the sum_of_digits function
 print("The sum of digits of 55:", sum_of_digits(55))
