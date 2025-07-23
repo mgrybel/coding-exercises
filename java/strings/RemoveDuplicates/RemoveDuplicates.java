@@ -1,4 +1,4 @@
-// Remove duplicate characters from a given string
+// Write a program to remove duplicate characters from a given string.
 // Input: hackerearth
 // Output: hackert
 
