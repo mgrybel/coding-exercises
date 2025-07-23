@@ -1,3 +1,6 @@
+// Write a program to compare two strings and check whether they are equal or not.
+// The .equals() method tests for value equality, i.e, whether the given strings contain the same data.
+
 package strings.CompareStrings;
 
 import java.util.Scanner;
