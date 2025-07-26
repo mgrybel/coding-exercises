@@ -11,5 +11,5 @@ def is_palindrome(word):
   else:
     return False
   
-# Example
+# Test the is_palindrome function
 print("Is the word 'kayak' a palindrome?", is_palindrome("kayak"))
