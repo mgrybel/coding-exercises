@@ -9,5 +9,5 @@ def reverse_string(str):
   # the second character and append the first character
   return reverse_string(str[1:]) + str[0]
 
-# Example
+# Test the reverse_string function
 print("Hello, World!", reverse_string("Hello, World!"))
