@@ -6,5 +6,5 @@ def vector_sum(vector):
   else:
     return vector[0] + vector_sum(vector[1:])
   
-# Example
+# Test the vector_sum function
 print("The sum of elements in the array:", vector_sum([1, 2, 3]))
