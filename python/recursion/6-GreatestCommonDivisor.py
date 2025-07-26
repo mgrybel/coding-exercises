@@ -9,5 +9,5 @@ def gcd(a, b):
   # the remainder of a divided by b
   return gcd(b, a % b)
 
-# Example
+# Test the gcd function
 print("The greatest common divisor (GCD) of 12 and 6 is equal to:", gcd(12, 6))
