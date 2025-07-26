@@ -9,5 +9,5 @@ def power(base, exponent):
   # power of (base, exponent - 1)
   return base * power(base, exponent - 1)
 
-# Example
+# Test the power function
 print("3 to the power of 4 is equal to:", power(3, 4))
