@@ -6,7 +6,7 @@
 # if the number is odd, multiply it by 3 and add 1
 # Repeat this process until you reach the number 1.
 
-# E.g. The Collatz squence for the number 6 is 6, 3, 10, 5, 16, 8, 4, 2, 1.
+# E.g., the Collatz squence for the number 6 is 6, 3, 10, 5, 16, 8, 4, 2, 1.
 # More info: https://brainly.com/question/53133031 
 
 def collatz_sequence(number):
