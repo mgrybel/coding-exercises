@@ -9,5 +9,5 @@ def find_smallest(arr):
   # with the smallest element in the rest of the array
   return min(arr[0], find_smallest(arr[1:]))
 
-# Example
+# Test the find_smallest function
 print("The smallest value in the array:", find_smallest([1,2,3,4,5]))
