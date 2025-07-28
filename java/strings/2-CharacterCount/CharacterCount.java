@@ -1,22 +1,25 @@
-// Write a program to count the number of characters in a given string.
-
-package strings.CountCharacters;
+// Write a program to calculate the count of non-space characters in a given string.
+// Input: This is a string
+// Output: 13
 
 import java.util.Scanner;
 
-public class CountCharacters {
-    public static void main(String[] main) {
+public class CharacterCount {
+    public static void main(String[] args) {
         // Create a scanner object to read input from the user
         Scanner scanner = new Scanner(System.in);
 
         String myStr;
-        int count;
+        int count = 0;
 
         System.out.println("Enter a string: ");
         myStr = scanner.nextLine();
 
-        count = myStr.length();
-
+        for (int i = 0; i < myStr.length(); i++) {
+            if (myStr.charAt(i) != ' ') {
+                count++;
+            }
+        }
         System.out.println("The number of characters is equal to: " + count);
 
         // Close the scanner
