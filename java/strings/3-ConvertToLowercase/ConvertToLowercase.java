@@ -1,7 +1,5 @@
 // Write a program to convert a sentence to lowercase.
 
-package strings.ConvertToLowercase;
-
 import java.util.Scanner;
 
 public class ConvertToLowercase {
