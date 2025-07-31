@@ -1,7 +1,5 @@
 // Write a program to convert a sentence to uppercase.
 
-package strings.ConvertToUppercase;
-
 import java.util.Scanner;
 
 public class ConvertToUppercase {
