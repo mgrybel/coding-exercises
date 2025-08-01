@@ -2,8 +2,6 @@
 // Input: hackerearth
 // Output: h a e r
 
-package strings.FindDuplicates;
-
 import java.util.Scanner;
 
 public class FindDuplicates {
