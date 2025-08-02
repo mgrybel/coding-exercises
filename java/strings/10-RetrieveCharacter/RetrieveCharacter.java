@@ -1,7 +1,5 @@
 // Write a program to retrieve from a sentence a character at a given index. 
 
-package strings.RetrieveCharacter;
-
 import java.util.Scanner;
 
 public class RetrieveCharacter {
