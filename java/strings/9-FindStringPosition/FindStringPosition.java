@@ -2,8 +2,6 @@
 // The indexOf() method returns the position of the first occurrence 
 // of specified character(s) in a string.
 
-package strings.FindStringPosition;
-
 import java.util.Scanner;
 
 public class FindStringPosition {
