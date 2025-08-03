@@ -2,8 +2,6 @@
 // The substring() method returns a substring from the string.
 // If the end argument is not specified, then the substring will end at the end of the string.
 
-package strings.GetPartOfString;
-
 import java.util.Scanner;
 
 public class GetPartOfString {
