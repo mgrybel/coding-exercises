@@ -2,8 +2,6 @@
 // Input: hackerearth
 // Output: hackert
 
-package strings.RemoveDuplicates;
-
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 
