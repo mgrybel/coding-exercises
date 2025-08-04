@@ -1,7 +1,5 @@
 // Write a program to replace part of a given string. 
 
-package strings.ReplacePartOfString;
-
 import java.util.Scanner;
 
 public class ReplacePartOfString {
