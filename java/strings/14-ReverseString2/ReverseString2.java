@@ -2,8 +2,6 @@
 // Input: This is a string
 // Output: gnirts a si sihT
 
-package strings.ReverseString2;
-
 import java.util.Scanner;
 
 public class ReverseString2 {
