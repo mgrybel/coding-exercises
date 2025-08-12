@@ -1,7 +1,5 @@
 // Write a program to reverse words in a given sentence.
 
-package strings.ReverseWordsInSentence2;
-
 import java.util.Scanner;
 
 public class ReverseWordsInSentence2 {
